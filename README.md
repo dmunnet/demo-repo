@@ -5,3 +5,4 @@ Create a local folder, add a file, then push to GitHub
 ## Local Development
 
 1. Open index.html in your browser
+2. Read all instructions carefully
